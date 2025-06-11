@@ -1,0 +1,24 @@
+[0.471s] Invoking command in '/home/saiganesh/campus_tour_robot/src/greeting': PYTHONPATH=/home/saiganesh/campus_tour_robot/build/greeting/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/saiganesh/campus_tour_robot/install/greeting/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/greeting build --build-base /home/saiganesh/campus_tour_robot/build/greeting/build install --record /home/saiganesh/campus_tour_robot/build/greeting/install.log --single-version-externally-managed install_data
+[0.679s] running egg_info
+[0.680s] writing ../../build/greeting/greeting.egg-info/PKG-INFO
+[0.680s] writing dependency_links to ../../build/greeting/greeting.egg-info/dependency_links.txt
+[0.680s] writing entry points to ../../build/greeting/greeting.egg-info/entry_points.txt
+[0.680s] writing requirements to ../../build/greeting/greeting.egg-info/requires.txt
+[0.680s] writing top-level names to ../../build/greeting/greeting.egg-info/top_level.txt
+[0.682s] reading manifest file '../../build/greeting/greeting.egg-info/SOURCES.txt'
+[0.683s] writing manifest file '../../build/greeting/greeting.egg-info/SOURCES.txt'
+[0.683s] running build
+[0.683s] running build_py
+[0.683s] copying greeting/greeter.py -> /home/saiganesh/campus_tour_robot/build/greeting/build/lib/greeting
+[0.683s] running install
+[0.683s] running install_lib
+[0.685s] copying /home/saiganesh/campus_tour_robot/build/greeting/build/lib/greeting/greeter.py -> /home/saiganesh/campus_tour_robot/install/greeting/lib/python3.10/site-packages/greeting
+[0.685s] byte-compiling /home/saiganesh/campus_tour_robot/install/greeting/lib/python3.10/site-packages/greeting/greeter.py to greeter.cpython-310.pyc
+[0.685s] running install_data
+[0.686s] running install_egg_info
+[0.687s] removing '/home/saiganesh/campus_tour_robot/install/greeting/lib/python3.10/site-packages/greeting-0.0.0-py3.10.egg-info' (and everything under it)
+[0.688s] Copying ../../build/greeting/greeting.egg-info to /home/saiganesh/campus_tour_robot/install/greeting/lib/python3.10/site-packages/greeting-0.0.0-py3.10.egg-info
+[0.688s] running install_scripts
+[0.703s] Installing greeter script to /home/saiganesh/campus_tour_robot/install/greeting/lib/greeting
+[0.703s] writing list of installed files to '/home/saiganesh/campus_tour_robot/build/greeting/install.log'
+[0.727s] Invoked command in '/home/saiganesh/campus_tour_robot/src/greeting' returned '0': PYTHONPATH=/home/saiganesh/campus_tour_robot/build/greeting/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/saiganesh/campus_tour_robot/install/greeting/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/greeting build --build-base /home/saiganesh/campus_tour_robot/build/greeting/build install --record /home/saiganesh/campus_tour_robot/build/greeting/install.log --single-version-externally-managed install_data

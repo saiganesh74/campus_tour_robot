@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/greeting/greeting.egg-info/PKG-INFO
+../../build/greeting/greeting.egg-info/SOURCES.txt
+../../build/greeting/greeting.egg-info/dependency_links.txt
+../../build/greeting/greeting.egg-info/entry_points.txt
+../../build/greeting/greeting.egg-info/requires.txt
+../../build/greeting/greeting.egg-info/top_level.txt
+../../build/greeting/greeting.egg-info/zip-safe
+greeting/__init__.py
+greeting/greeter.py
+resource/greeting
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
